@@ -28,6 +28,5 @@ cfg.work_dir = f'./PMMA_analysis/eval_log_{method_name}'
 runner = Runner.from_cfg(cfg)
 results = runner.test()
 
-# 👇✅ 打印结果，才能看到每类 AP
 from pprint import pprint
 pprint(results)
