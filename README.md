@@ -1,5 +1,7 @@
 # PMMA dataset processing and training document
 
+# Data Link:
+**PMMA Dataset (via DOI)**: [https://doi.org/10.5683/SP3/XJPQUG](https://doi.org/10.5683/SP3/XJPQUG)
 # Data preparation
 Download original videos from link and put it in 'data_processing/raw_data/original_videos'
 
