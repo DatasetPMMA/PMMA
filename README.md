@@ -71,7 +71,7 @@ Exmaple for training:
     ```
     python tools/train.py -c configs/rtdetrv2/rtdetrv2_r50vd_6x_coco_run.yml
     ```
-## Layout
+## DAtaset Layout
 ```
 PMMA/
 ├── raw_annotations/
